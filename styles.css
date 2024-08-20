@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Courier, sans-serif;
+    font-weight: bold; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#countdown {
+    font-size: 2em;
+    margin-top: 20px;
+}
